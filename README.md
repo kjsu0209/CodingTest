@@ -1,6 +1,6 @@
 # 문제풀이 모음
-[백준(삼성)](https://www.acmicpc.net/workbook/view/1152)      
-[프로그래머스(카카오)](https://programmers.co.kr/learn/challenges)    
+[백준](https://www.acmicpc.net/workbook/view/1152)      
+[프로그래머스](https://programmers.co.kr/learn/challenges)    
 --------   
 1. 문자열    
 [문자열압축](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60057.java) 
