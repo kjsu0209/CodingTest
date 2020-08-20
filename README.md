@@ -1,6 +1,5 @@
 # 문제풀이 모음
-연습 사이트 바로가기
-[삼성SW역량테스트](https://www.acmicpc.net/workbook/view/1152)      
+[백준(삼성)](https://www.acmicpc.net/workbook/view/1152)      
 [프로그래머스(카카오)](https://programmers.co.kr/learn/challenges)    
 --------   
 1. 문자열    
