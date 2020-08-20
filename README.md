@@ -1,4 +1,4 @@
-# CodingTest
+# 코테 대비 문제풀이 모음
 --------   
 1. DFS       
 [스타트와링크](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14889.java) 
