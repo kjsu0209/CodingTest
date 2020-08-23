@@ -19,7 +19,8 @@
 [추석트래픽](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p17676.java)
 
 5. DP    
-[보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java)        
+[보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
+[팩토리얼]()
 
 6. Greedy      
 [구명보트](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42885.py)    
