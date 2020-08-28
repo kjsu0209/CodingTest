@@ -27,4 +27,7 @@
 [구명보트](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42885.py)    
 
 7. 기타등등     
-[주식가격](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42584.py)
+[주식가격](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42584.py) 
+[베스트앨범](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42579.py)
+
+
