@@ -23,6 +23,7 @@
 5. DP    
 [보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
 [팩토리얼]()
+[1로 만들기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1463.py)
 
 6. Greedy      
 [구명보트](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42885.py)    
