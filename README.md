@@ -4,7 +4,7 @@
 --------   
 1. 문자열    
 [문자열압축](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60057.java) 
-[오픈채팅방](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42888.py)   
+[오픈채팅방](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42888.py) 
 [튜플](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64065.py)   
 
 2. DFS       
