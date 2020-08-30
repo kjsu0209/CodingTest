@@ -5,7 +5,8 @@
 1. 문자열    
 [문자열압축](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60057.java) 
 [오픈채팅방](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42888.py) 
-[튜플](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64065.py)   
+[튜플](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64065.py) 
+[스킬트리](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p49993.py)
 
 2. DFS       
 [스타트와링크](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14889.java) 
