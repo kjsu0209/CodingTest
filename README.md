@@ -40,7 +40,8 @@
 [신입사원](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1946.py) 
 
 8. Heap       
-[더 맵게](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42626.py)
+[더 맵게](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42626.py) 
+[디스크 컨트롤러](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42627.py) 
 
         
 9. 기타등등     
