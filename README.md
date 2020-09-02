@@ -39,8 +39,11 @@
 [좌표 정렬하기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b11650.py) 
 [신입사원](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1946.py) 
 
+8. Heap       
+[더 맵게](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42626.py)
 
-8. 기타등등     
+        
+9. 기타등등     
 [주식가격](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42584.py) 
 [베스트앨범](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42579.py)
 
