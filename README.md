@@ -39,6 +39,7 @@
 [가장 큰 수](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42746.py) 
 [좌표 정렬하기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b11650.py) 
 [신입사원](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1946.py) 
+[실패율](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42889.py) 
 
 8. Heap       
 [더 맵게](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42626.py) 
