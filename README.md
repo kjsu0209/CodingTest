@@ -25,7 +25,8 @@
 4. Simulation   
 [로봇청소기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14503.java) 
 [추석트래픽](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p17676.java) 
-[키패드 누르기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p67256.py)
+[키패드 누르기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p67256.py) 
+[기둥과 보 설치](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60061.py)
 
 5. DP    
 [보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
