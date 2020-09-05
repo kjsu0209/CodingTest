@@ -15,8 +15,10 @@
 [스타트와링크](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14889.java) 
 [퇴사](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14501.java) 
 [연구소](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14502.java) 
-[타겟 넘버](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43165.py)
+[타겟 넘버](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43165.py) 
+[불량 사용자](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64064.py) 
 
+ 
 3. BFS     
 [네트워크](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43162.py) 
 [단어 변환](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43163.py) 
