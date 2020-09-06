@@ -1,5 +1,5 @@
 # 1+@ days
-# 다음에는 cal 따로 구현하지말고 eval 쓸것
+# 긴 
 import re, copy
 
 max_value = 0
@@ -80,3 +80,33 @@ def cal(o, e1, e2):
         return e1 - e2
     else:
         return e1 * e2
+
+    
+ # 짧은 버전
+import re, copy
+from itertools import permutations
+
+def solution(e):
+    answer = 0
+    priority = list(permutations(['+', '*', '-']))
+    for prior in priority:
+        expression = e
+        for o in prior:
+            while o in expression:
+                ex = re.split("[+*-]", expression)
+                op = re.findall("[+*-]", expression)
+                o_index = op.index(o)
+                ex1 = ex[o_index].replace('$', '-')
+                ex2 = ex[o_index+1].replace('$', '-')
+                exp = ex[o_index] + o + ex[o_index + 1]
+                exp2 = ex1 + o + ex2
+                result = eval(exp2)
+                if result < 0:
+                    result = result * -1
+                    result = '$' + str(result)
+                expression = expression.replace(exp, str(result))
+        if expression[0] == '$':
+            expression = '-' + expression[1:]
+        price = int(expression)
+        answer = max(abs(price), answer)
+    return answer
