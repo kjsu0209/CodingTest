@@ -57,7 +57,7 @@
 [이중우선순위 큐](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42628.py)
 
         
-9. 이분 탐색
+9. 이분 탐색           
 [수 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1920.py) 
 
 
