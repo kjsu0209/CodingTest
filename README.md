@@ -58,8 +58,11 @@
 
         
 9. 이분 탐색
-[수 찾기]()
-9. 기타등등     
+[수 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1920.py) 
+
+
+          
+10. 기타등등     
 [주식가격](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42584.py) 
 [베스트앨범](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42579.py)
 [기능개발](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p41586.py) 
