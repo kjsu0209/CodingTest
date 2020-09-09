@@ -57,6 +57,8 @@
 [이중우선순위 큐](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42628.py)
 
         
+9. 이분 탐색
+[수 찾기]()
 9. 기타등등     
 [주식가격](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42584.py) 
 [베스트앨범](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42579.py)
