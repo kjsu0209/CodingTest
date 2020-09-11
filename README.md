@@ -32,7 +32,8 @@
 [추석트래픽](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p17676.java) 
 [키패드 누르기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p67256.py) 
 [기둥과 보 설치](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60061.py) 
-[다리를 지나는 트럭](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42583.py)
+[다리를 지나는 트럭](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42583.py) 
+[자물쇠와 열쇠](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60059.py) 
 
 5. DP    
 [보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
