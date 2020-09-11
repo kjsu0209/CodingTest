@@ -63,7 +63,8 @@
 9. 이분 탐색           
 [수 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1920.py) 
 [입국심사](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43238.py) 
-[징검다리 건너기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64062.py)
+[징검다리 건너기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64062.py) 
+[랜선 자르기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1654.py)
 
 
           
