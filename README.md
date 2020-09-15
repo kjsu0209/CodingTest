@@ -19,7 +19,8 @@
 [연구소](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14502.java) 
 [타겟 넘버](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43165.py) 
 [불량 사용자](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64064.py) 
-[수식 최대화](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p67257.py)
+[수식 최대화](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p67257.py) 
+[소수 만들기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12977.py)
 
  
 3. BFS     
