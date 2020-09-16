@@ -1,3 +1,4 @@
+# 0:50
 def solution(arr, turn):
     for t in turn:
         arr = wheel(arr, t[0], t[1])
