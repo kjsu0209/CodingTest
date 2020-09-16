@@ -27,7 +27,8 @@
 [네트워크](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43162.py) 
 [단어 변환](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43163.py) 
 [여행경로](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43164.py) 
-[적록색약](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b10026.py)
+[적록색약](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b10026.py) 
+[톱니바퀴](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14891.py)
 
 4. Simulation   
 [로봇청소기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14503.java) 
