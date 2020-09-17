@@ -48,7 +48,8 @@
 
 6. Greedy      
 [구명보트](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42885.py) 
-[큰 수 만들기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42883.py)
+[큰 수 만들기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42883.py) 
+[회의실배정](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1931.py)
      
 7. 정렬       
 [H-Index](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42747.py) 
