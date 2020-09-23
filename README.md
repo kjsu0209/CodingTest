@@ -67,6 +67,9 @@
 [실패율](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42889.py) 
 [파일명 정렬](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p17686.py) 
 [매칭 점수](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42893.py)
+           
+* 위상 정렬      
+[줄 세우기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b2252.py)
 
 8. Heap       
 [더 맵게](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42626.py) 
