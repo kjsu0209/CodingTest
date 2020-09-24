@@ -103,7 +103,8 @@
 [멀쩡한 사각형](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p62048.py) 
 [회문1](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/s1215.py) 
 [영어 끝말잇기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12981.py) 
-[다음 큰 숫자-이진법](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12911.py)
+[다음 큰 숫자-이진법](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12911.py) 
+[숫자의 표현](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12924.py)
 
 
 
