@@ -1,3 +1,4 @@
+# 0:21
 def solution(N):
     # write your code in Python 3.6
     answer = 0
