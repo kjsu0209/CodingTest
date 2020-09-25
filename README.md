@@ -105,7 +105,8 @@
 [회문1](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/s1215.py) 
 [영어 끝말잇기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12981.py) 
 [다음 큰 숫자-이진법](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12911.py) 
-[숫자의 표현](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12924.py)
+[숫자의 표현](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12924.py) 
+[Binary Gap](https://github.com/kjsu0209/CodingTest/blob/master/codility/1_binary_gap.py)
 
 
 
