@@ -1,0 +1,20 @@
+# 0:25
+def solution(X, A):
+    # write your code in Python 3.6
+    time = -1
+    A = sorted(list(enumerate(A)), key=lambda x: (x[1], x[0]))
+    pre_location = 0
+    for a in A:
+        if a[1] - pre_location > 1:
+            break
+        elif a[1] == pre_location:
+            continue
+        elif a[1] == X:
+            time = max(a[0], time)
+            pre_location = X
+            break
+        time = max(a[0], time)
+        pre_location = a[1]
+    if pre_location != X:
+        time = -1
+    return time
