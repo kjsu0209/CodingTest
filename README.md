@@ -43,7 +43,9 @@
 [기둥과 보 설치](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60061.py) 
 [다리를 지나는 트럭](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42583.py) 
 [자물쇠와 열쇠](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60059.py) 
-[게임 개발](https://github.com/kjsu0209/CodingTest/blob/master/etc/na_4-4.py)
+[게임 개발](https://github.com/kjsu0209/CodingTest/blob/master/etc/na_4-4.py) 
+[뱀](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b3190.py)
+
 
 5. DP    
 [보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
@@ -109,7 +111,7 @@
 [영어 끝말잇기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12981.py) 
 [다음 큰 숫자-이진법](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12911.py) 
 [숫자의 표현](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12924.py) 
-[Binary Gap](https://github.com/kjsu0209/CodingTest/blob/master/codility/1_binary_gap.py)
+[Binary Gap](https://github.com/kjsu0209/CodingTest/blob/master/codility/1_binary_gap.py) 
 
 
 
