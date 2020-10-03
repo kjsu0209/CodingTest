@@ -44,7 +44,8 @@
 [다리를 지나는 트럭](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42583.py) 
 [자물쇠와 열쇠](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60059.py) 
 [게임 개발](https://github.com/kjsu0209/CodingTest/blob/master/etc/na_4-4.py) 
-[뱀](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b3190.py)
+[뱀](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b3190.py) 
+[치킨 배달](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b15686.py)
 
 
 5. DP    
