@@ -5,7 +5,13 @@
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)     
 [HackerRank](https://www.hackerrank.com/dashboard)
 
---------   
+--------
+## 찾아보기    
+[정규표현식](https://github.com/kjsu0209/CodingTest/blob/master/note/regex.py)
+
+--------    
+## 유형별 참고하면 좋은 문제    
+
 1. 문자열    
 [문자열압축](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60057.java) 
 [오픈채팅방](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42888.py) 
