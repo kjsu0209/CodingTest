@@ -7,7 +7,7 @@
 
 --------
 ## 찾아보기    
-[정규표현식](https://github.com/kjsu0209/CodingTest/blob/master/note/regex.py)
+[정규표현식](https://github.com/kjsu0209/CodingTest/blob/master/note/regex.md)
 
 --------    
 ## 유형별 참고하면 좋은 문제    
