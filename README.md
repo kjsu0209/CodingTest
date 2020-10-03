@@ -24,7 +24,8 @@
 [전화번호 목록](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42577.py) 
 [방금그곡](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p17683.py) 
 [올바른 괄호](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12909.py) 
-[짝지어 제거하기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12973.py)
+[짝지어 제거하기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12973.py) 
+[Jaden Case](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12951.py)
  
 2. DFS       
 [스타트와링크](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14889.java) 
