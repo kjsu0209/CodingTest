@@ -30,7 +30,6 @@
 2. DFS       
 [스타트와링크](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14889.java) 
 [퇴사](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14501.java) 
-[연구소](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14502.java) 
 [타겟 넘버](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43165.py) 
 [불량 사용자](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p64064.py) 
 [수식 최대화](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p67257.py) 
@@ -43,7 +42,8 @@
 [단어 변환](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43163.py) 
 [여행경로](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43164.py) 
 [적록색약](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b10026.py) 
-[톱니바퀴](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14891.py)
+[톱니바퀴](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14891.py) 
+[연구소](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14502.py)
 
 4. Simulation   
 [로봇청소기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14503.java) 
