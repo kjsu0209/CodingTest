@@ -43,7 +43,8 @@
 [여행경로](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p43164.py) 
 [적록색약](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b10026.py) 
 [톱니바퀴](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14891.py) 
-[연구소](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14502.py)
+[연구소](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14502.py) 
+[경쟁적 전염](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b18405.py)
 
 4. Simulation   
 [로봇청소기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b14503.java) 
