@@ -57,7 +57,8 @@
 [자물쇠와 열쇠](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p60059.py) 
 [게임 개발](https://github.com/kjsu0209/CodingTest/blob/master/etc/na_4-4.py) 
 [뱀](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b3190.py) 
-[치킨 배달](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b15686.py)
+[치킨 배달](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b15686.py) 
+[방문 길이](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p49994.py)
 
 
 5. DP    
