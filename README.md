@@ -67,7 +67,8 @@
 [1로 만들기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1463.py)
 [2 x n 타일링](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12900.py) 
 [정수 삼각형](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1932.py) 
-[등굣길](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42898.py)
+[등굣길](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42898.py) 
+[멀리 뛰기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12914.py)
 
  - 플로이드 와샬       
 [순위](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p49191.py) 
