@@ -131,6 +131,7 @@
 [다음 큰 숫자-이진법](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12911.py) 
 [숫자의 표현](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12924.py) 
 [Binary Gap](https://github.com/kjsu0209/CodingTest/blob/master/codility/1_binary_gap.py) 
+[기지국 설치](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12979.py)
 
 * Two Pointer    
 [Container With Most Water](https://github.com/kjsu0209/CodingTest/blob/master/leetcode/11.%20Container%20With%20Most%20Water.py)
