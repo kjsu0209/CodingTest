@@ -8,3 +8,6 @@
 
 ### 소수
 [에라토스테네스의 체](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12921.py)
+
+### 최대공약수, 최소공배수
+[재귀 풀이](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12940.py)
