@@ -5,3 +5,6 @@
 
 ### 확률과 통계
 [행렬곱](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12949.py)
+
+### 소수
+[에라토스테네스의 체](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12921.py)
