@@ -61,4 +61,42 @@ b번에 나누어 떨어지면 순환소수가 아닌것이고, 나누어 떨어
 : 중첩 반복문 or 재귀로 풀이 가능  
 nCr일 경우 재귀 깊이는 r까지
 - 2^n가지 경우의 수 만들기  
-: n개의 질문에 대한 답이 2가지일 때
+: n개의 질문에 대한 답이 2가지일 때  
+
+### 분할정복  
+> 문제를 더 작은 문제로 분할(divide)
+> 각 문제에서 나온 답을 원래 문제에 대한 답으로 병합(merge)
+> 더 이상 문제를 분할하지 않아도 풀 수 있는 매우 작은 문제 (base case)
+
+분할 정복은 한 번에 풀 수 없는 큰 문제를 base case까지 divide한 뒤, base case부터 한 단계씩 merge하면서 푸는 방식이다. 
+ 그래서 문제를 부분 문제로 나눌 수 있는 문제에만 적용될 수 있다.  
+문제를 푸는 과정을 divide, merge, base case 문제 해결이라는 세 가지 모듈로 나눌 수 있으며, 같은 작업을 반복하기 때문에 빠르게 문제를 해결하게 해 준다.  
+
+ex. 1부터 n까지 1씩 증가하는 등차수열의 합을 구할 때  
+```
+sum = 0
+for number in range(1, n+1):
+  sum += number
+print(sum)
+```
+=> 이 방법은 시간 복잡도 O(N)이 걸린다. 이 문제는 분할 정복으로 더 빠르게 해결할 수 있다.  
+
+```
+sum = fast_sum(n)
+print(sum)
+
+###
+
+def fast_sum(number):
+  if number == 1: # 더 이상 분할할 수 없는 경우: base case
+    return number
+    
+  if number % 2 == 1:
+    return fast_sum(number-1) + number # 홀수일 경우 짝수와 1로 분할한다.
+  return 2*fast_sum(number//2) + (number//2) * (number//2) # 짝수일 경우 
+```
+
+=> 이 방법은 재귀를 사용해 분할 정복으로 구현한 방법으로, O(logN)의 시간 복잡도를 가진다.  
+=> (n*(n+1))/2 수식을 사용하면 바로 풀 수 있긴 하다.
+
+
