@@ -73,7 +73,7 @@
 
 5. DP    
 [보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
-[팩토리얼]()
+[피보나치 3가지](https://github.com/kjsu0209/CodingTest/blob/master/etc/fibonachi.py)
 [1로 만들기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1463.py)
 [2 x n 타일링](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12900.py) 
 [정수 삼각형](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b1932.py) 
