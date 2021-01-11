@@ -16,3 +16,6 @@
 [내적](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p70128.py)    
 > 내적은 scalar product라고 하는데, 두 수열에서 대응되는 원소를 곱한 것을 모두 합한 것이다.
 > 기하학에서 두 벡터의 길이와 각도를 정의하는 데 쓰인다. 
+
+### 조합론  
+[중복조합](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/ct_02.py)
