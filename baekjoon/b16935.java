@@ -45,7 +45,7 @@ public class b16935 {
 		isSelected = new boolean[K];
 		order = new int[K];
 		minVal = Integer.MAX_VALUE;
-
+		
 		dfs(0, K);
 		System.out.println(minVal);
 	}
