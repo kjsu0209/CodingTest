@@ -1,4 +1,4 @@
-package CodingTest.swexpert.d3;
+package CodingTest.swexpert.d4;
 import java.util.*;
 import java.io.*;
 public class d4_1244 {
