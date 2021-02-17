@@ -68,9 +68,10 @@
 [게임 개발](https://github.com/kjsu0209/CodingTest/blob/master/etc/na_4-4.py) 
 [뱀](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b3190.py) 
 [치킨 배달](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b15686.py) 
-[방문 길이](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p49994.py)
+[방문 길이](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p49994.py) 
+[미로찾기](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_1226.java)
 
-
+  
 5. DP    
 [보행자천국](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p1832.java) 
 [피보나치 3가지](https://github.com/kjsu0209/CodingTest/blob/master/etc/fibonachi.py)
