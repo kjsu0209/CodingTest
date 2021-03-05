@@ -18,97 +18,36 @@ public class b5904 {
 		
 		N = Integer.parseInt(in.readLine());
 		
-		int sNum = 0;
-		int pos = 1;
-		char c = 'o';
-		
-		loop: while(true) {
-			//System.out.println(sNum+" "+pos);
-			pos = 1;
-			// 현재수열 포함한 앞쪽수열체크
-			for(int i=0;i<sNum;i++) {
-				System.out.print('m');
-				for(int j=0;j<i+2;j++) System.out.print('o');
-				if(N == pos) {
-					c = 'm';
-					break loop;
-				}
-				else if(N<=pos+(i+2)) {
-					c = 'o';
-					break loop;
-				}
-				
-				pos += 1+(i+2);
-			}
-			// 뒤쪽수열체크
-			for(int i=sNum-2;i>=0;i--) {
-				System.out.print('m');
-				for(int j=0;j<i+2;j++) System.out.print('o');
-				if(N == pos) {
-					c = 'm';
-					break loop;
-				}
-				else if(N<=pos+(i+2)) {
-					c = 'o';
-					break loop;
-				}
-				
-				
-				pos += 1+(i+2);
-			}
-			
-			System.out.print('m');
-			for(int j=0;j<sNum+2;j++) System.out.print('o');
-			if(N == pos) {
-				c = 'm';
-				break loop;
-			}
-			else if(N<=pos+(sNum+2)) {
-				c = 'o';
-				break loop;
-			}
-			pos += 1+(sNum+2);
-			
-			// 현재수열 포함한 앞쪽수열체크
-			for(int i=0;i<sNum;i++) {
-				System.out.print('m');
-				for(int j=0;j<i+2;j++) System.out.print('o');
-				if(N == pos) {
-					c = 'm';
-					break loop;
-				}
-				else if(N<=pos+(i+2)) {
-					c = 'o';
-					break loop;
-				}
-				
-				pos += 1+(i+2);
-			}
-			// 뒤쪽수열체크
-			for(int i=sNum-2;i>=0;i--) {
-				System.out.print('m');
-				for(int j=0;j<i+2;j++) System.out.print('o');
-				if(N == pos) {
-					c = 'm';
-					break loop;
-				}
-				else if(N<=pos+(i+2)) {
-					c = 'o';
-					break loop;
-				}
-				
-				
-				pos += 1+(i+2);
-			}
-			
-			sNum++;
-			System.out.println();
+		moo(0, false);
+		//countMoo(0, 0);
+	}
+	static int counter = 0;
+	// 정점찍기 - 이전거 찍기 - 다음걸로 넘어가기
+	// k: 차수, goback: 정점 찍고 돌아가는길인지 여부
+	static void moo(int k, boolean goback) {
+		// 정점 찍고 이전꺼 다시찍는 경우
+		if(goback && counter < N)
+			if(k-1>=0)
+				moo(k-1, true);
+		// 
+		// 현재 정점 찍기
+		counter+=1;
+		if(counter == N) {
+			System.out.println("m");
+			return;
 		}
-		System.out.println();
-		System.out.println(c);
-		//mooMoo(0, 0);
+		
+		counter += k+2;
+		if(counter >= N && N > counter - (k+2)) {
+			System.out.println("o");
+			return;
+		}
+		// 정점 찍으면 정점 이전 수열 출력하기
+		if(k-1>=0 && counter < N)
+			moo(k-1, true);
+		// 해당 차수 수열 다 출력하면 다음 차수 정점 찍으러 넘어가기
+		if(!goback && counter < N)
+			moo(k+1, false);
 	}
 	
-
-
 }
