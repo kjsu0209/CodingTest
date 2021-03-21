@@ -5,8 +5,9 @@
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 [HackerRank](https://www.hackerrank.com/dashboard)
 [LeetCode](https://leetcode.com/problemset/all/)
-[알고스팟](https://www.algospot.com/)
-
+[알고스팟](https://www.algospot.com/) 
+[정올](http://www.jungol.co.kr/)
+  
 > 문제 해결 과정
 > 1. 문제를 읽고 이해하기
 > 2. 재정의와 추상화
