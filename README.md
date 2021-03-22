@@ -98,7 +98,11 @@
 [동전 0](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b11047.py) 
           
 - 크러스컬          
-[섬 연결하기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42861.py)
+[섬 연결하기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42861.py) 
+[최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124_kruskal.java)
+  
+- 프림
+[최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124.java)
 
  - 다익스트라    
  [특정 거리의 도시 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b18352.py) 
