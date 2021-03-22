@@ -83,6 +83,11 @@
 [등굣길](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42898.py) 
 [멀리 뛰기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12914.py)
 
+
+ - 다익스트라    
+ [특정 거리의 도시 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b18352.py) 
+ [배달](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12978.py)
+   
  - 플로이드 와샬       
 [순위](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p49191.py) 
 [경로 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b11403.py) 
@@ -101,12 +106,9 @@
 [섬 연결하기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42861.py) 
 [최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124_kruskal.java)
   
-- 프림
+- 프림  
 [최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124.java)
 
- - 다익스트라    
- [특정 거리의 도시 찾기](https://github.com/kjsu0209/CodingTest/blob/master/baekjoon/b18352.py) 
- [배달](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p12978.py)
       
 7. 정렬       
 [H-Index](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42747.py) 
