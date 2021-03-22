@@ -43,7 +43,35 @@ public class d4_3289 {
 		int T = Integer.parseInt(in.readLine());
 		
 		for(int tc=1;tc<=T;tc++) {
+			StringTokenizer st = new StringTokenizer(in.readLine());
+			n = Integer.parseInt(st.nextToken());
+			int m = Integer.parseInt(st.nextToken());
 			
+			parents = new int[n+1];
+			cNum = new int[n+1];
+			make();
+			System.out.print("#"+tc+" ");
+			for(int i=0;i<m;i++) {
+				//System.out.println(Arrays.toString(parents));
+				st = new StringTokenizer(in.readLine());
+				int command = Integer.parseInt(st.nextToken());
+				int a =  Integer.parseInt(st.nextToken());
+				int b =  Integer.parseInt(st.nextToken());
+				
+				if(command == 0) {
+					union(a, b);
+				}
+				else if(command == 1) {
+					if(find(a) == find(b)) {
+						System.out.print('1');
+					}
+					else {
+						System.out.print('0');
+					}
+				}
+				
+			}
+			System.out.println();
 		}
 	}
 
