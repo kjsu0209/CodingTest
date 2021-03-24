@@ -104,10 +104,13 @@
           
 - 크러스컬          
 [섬 연결하기](https://github.com/kjsu0209/CodingTest/blob/master/programmers/p42861.py) 
-[최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124_kruskal.java)
+[최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124_kruskal.java) 
+[하나로-크러스컬](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_1251_kruskal.java)
   
 - 프림  
-[최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124.java)
+[최소 스패닝 트리](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_3124.java) 
+[하나로-우선순위큐](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_1251_prim_pq.java) 
+[하나로-인접행렬](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/d4/d4_1251_prim.java)
 
       
 7. 정렬       
