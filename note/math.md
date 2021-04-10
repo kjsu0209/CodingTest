@@ -18,7 +18,7 @@
 > 기하학에서 두 벡터의 길이와 각도를 정의하는 데 쓰인다. 
 
 ### 조합론  
-[조합]() 
-[중복조합](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/ct_02.py)   
+[조합]()   
+[중복조합](https://github.com/kjsu0209/CodingTest/blob/master/swexpert/ct_02.py)     
 [순열]()   
 [중복순열]()   
