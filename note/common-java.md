@@ -36,3 +36,9 @@ public boolean isValid(int dir, int row, int col, int limitR, int limitC){
 
 ```
 
+### String to Integer
+```
+public static int stoi(String s){
+  return Integer.parseInt(s);
+}
+```
